@@ -1,2 +1,2 @@
-# TestingCodeReviews
-Lesson for practicing being a code reviewer
+# mohamed-vitor
+Partner's project
